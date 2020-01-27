@@ -1,0 +1,27 @@
+************************day 28*********
+
+GIT HUB
+take version of git --version
+
+step 2:in cmd prompt
+
+git config --global user.name "lavanya sagar"
+git config --global user.email "lavanyamani2711@gmail.com"
+
+step 3:init 
+
+git init =once per project,should show 
+Initialized empty Git repository in C:/Users/Lavanya Sagar/Desktop/hello-dct-weekday-oct-2019/.git/
+
+
+step 4:
+type dir /a in cmd 
+
+step 5:
+git status ,this should show gitignore in red 
+
+**emmet gives features to type html tags easily**
+
+step 6:to make git to keep track of files user
+git add .
+
